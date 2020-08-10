@@ -5,7 +5,7 @@
 - Me chamo Leonardo, mas pode me chamar de **Léo**! 👊
 - Sou carioca e tenho 23 anos. 😎
 - Infelizmente eu jogo League of Legends. 😑🎮
-- Tenho 3 anos experiência com desenvolvimento de software. Atualmente trabalho como desenvolvedor Front-End e brother... sou apaixonado pelo que faço. 😉
+- Tenho 3 anos experiência com desenvolvimento de software. Atualmente trabalho como desenvolvedor Front-End... e brother, sou apaixonado pelo que faço. 😉
 
 <h3>🛠 Stack</h3>
 
