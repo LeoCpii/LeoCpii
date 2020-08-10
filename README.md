@@ -7,7 +7,7 @@
 - Infelizmente eu jogo League of Legends. 😑🎮
 - Tenho 3 anos experiência com desenvolvimento de software. Atualmente trabalho como desenvolvedor Front-End e brother... sou apaixondo pelo que faço. 😉
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Stack</h3>
 
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
