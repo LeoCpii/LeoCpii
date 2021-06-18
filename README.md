@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 - Me chamo Leonardo, mas pode me chamar de **Léo**! 👊
-- Sou carioca e tenho 23 anos. 😎
+- Sou carioca e tenho 24 anos. 😎
 - Infelizmente eu jogo League of Legends. 😑🎮
 - Tenho 4 anos experiência com desenvolvimento de software. Atualmente trabalho como desenvolvedor Front-End... e brother, sou apaixonado pelo que faço. 😉
 
@@ -33,10 +33,13 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeoCpii&show_icons=true&theme=gotham)](https://github.com/LeoCpii/)
-<br/>
-
+</br>
+<div>
+  <a href="https://github.com/LeoCpii">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCpii&layout=compact&langs_count=16&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoCpii&show_icons=true&theme=gotham"/>
+</div>
+  
 <h3> 🤝 Fale comigo! </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Gonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-goncalves-melo/)](https://www.linkedin.com/in/leonardo-goncalves-melo/)
